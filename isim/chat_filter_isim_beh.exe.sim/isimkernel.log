@@ -1,0 +1,30 @@
+Command line:
+   chat_filter_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50029
+
+Tue Nov 22 14:04:28 2016
+
+
+ Elaboration Time: 0.125 sec
+
+ Current Memory Usage: 1336.05 Meg
+
+ Total Signals          : 17
+ Total Nets             : 17
+ Total Signal Drivers   : 6
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 9
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 101
+Total Line Count : 20
+Total Line Count : 20
+
+ Total Simulation Time: 0.1875 sec
+
+ Current Memory Usage: 864.162 Meg
+
+Tue Nov 22 14:16:03 2016
+

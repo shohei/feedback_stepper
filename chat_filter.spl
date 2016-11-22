@@ -1,0 +1,10 @@
+[Inputs]
+CLK
+CE
+DIN
+[Outputs]
+DOUT
+[BiDir]
+[ATTRIBUTES]
+VeriModel chat_filter
+

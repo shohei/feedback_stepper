@@ -1,0 +1,11 @@
+[Inputs]
+CLK
+RST
+=SW[7:0]=
+[Outputs]
+MD1
+MD2
+[BiDir]
+[ATTRIBUTES]
+VeriModel pwm
+

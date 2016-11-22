@@ -1,0 +1,30 @@
+Command line:
+   pwm_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49813
+
+Sat Nov 19 11:59:44 2016
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 1493.38 Meg
+
+ Total Signals          : 20
+ Total Nets             : 27
+ Total Signal Drivers   : 9
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 23
+ Total Scalar Nets and Variables : 146
+Total Line Count : 36
+Total Line Count : 36
+
+ Total Simulation Time: 0.234375 sec
+
+ Current Memory Usage: 547.955 Meg
+
+Sat Nov 19 12:22:46 2016
+

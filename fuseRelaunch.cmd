@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Xilinx_projects/susutawari_book/chat_filter_isim_beh.exe" -prj "C:/Xilinx_projects/susutawari_book/chat_filter_beh.prj" "work.chat_filter" "work.glbl" 

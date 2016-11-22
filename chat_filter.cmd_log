@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Xilinx_projects/susutawari_book/chat_filter.v -lang verilog -prj susutawari_book -o chat_filter.spl -module chat_filter -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 chat_filter.spl C:/Xilinx_projects/susutawari_book/chat_filter.sym 
